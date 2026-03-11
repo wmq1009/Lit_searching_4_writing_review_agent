@@ -1,0 +1,5 @@
+{
+  "name": "OpenScholar Local",
+  "description": "A localized PubMed search and literature review app supporting Ollama and online LLMs.",
+  "requestFramePermissions": []
+}
