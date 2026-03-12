@@ -29,7 +29,7 @@
 本工具支持多种主流 AI 模型。点击页面右上角的 **Settings (齿轮图标⚙️)** 进行配置：
 
 ### 支持的提供商：
-*   **Google Gemini (推荐)**: 默认使用 `gemini-3-flash-preview`，速度快且支持原生推理过程显示。
+*   **Google Gemini **:  `gemini-3-flash-preview`，速度快且支持原生推理过程显示。
 *   **DeepSeek**: 支持 `deepseek-chat`。特别优化了对“思考过程 (Reasoning Content)”的捕获。
 *   **OpenAI (GPT)**: 支持 `gpt-4o`、`gpt-4-turbo` 等。
 *   **Alibaba Qwen (通义千问)**: 通过阿里云 DashScope 接口调用。
